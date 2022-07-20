@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-salut1
-=======
-salut2
->>>>>>> 2fec1d2d5d3fc08b1b3bc4c538f701017774c9f1
