@@ -1,0 +1,1 @@
+print("Salut user 1")
